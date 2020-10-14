@@ -1,7 +1,9 @@
-# MCM-NatSust_2020-07-08
-Input data and code for analysis to accompany the manuscript in review: "Identifying Management Actions that Promote Sustainable Fisheries"
+# MCM-NatSust_2020-10-14
+Input data and code for analysis to accompany the revised manuscript in review: "Identifying Management Actions that Promote Sustainable Fisheries"
 
-Copy the file 'MCM-NatSust_2020-07-08.zip' to your preferred directory on your local machine, and unzip file. Within the directory 'MCM-NatSust_2020-07-08', there are two sub-directories:
+This is an update of a previous release, 'MCM-NatSust_2020-07-08.zip'
+
+Copy the file 'MCM-NatSust_2020-10-14.zip' to your preferred directory on your local machine, and unzip file. Within the directory 'MCM-NatSust_2020-10-14', there are two sub-directories:
 
 1. 'MCM-NatSust'
 
