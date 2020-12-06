@@ -1,5 +1,6 @@
 # MCM-NatSust_2020-10-14
-Input data and code for analysis to accompany the revised manuscript in review: "Identifying Management Actions that Promote Sustainable Fisheries"
+Input data and code for analysis to accompany the manuscript: "Identifying Management Actions that Promote Sustainable Fisheries"
+Melnychuk et al., 2020, Nature Sustainability, https://doi.org/10.1038/s41893-020-00668-1.
 
 This is an update of a previous release, 'MCM-NatSust_2020-07-08.zip'
 
