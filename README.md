@@ -1,10 +1,8 @@
-# MCM-NatSust_2020-10-14
+# MCM-NatSust_2020-12-05
 Input data and code for analysis to accompany the manuscript: "Identifying Management Actions that Promote Sustainable Fisheries"
 Melnychuk et al., 2020, Nature Sustainability, https://doi.org/10.1038/s41893-020-00668-1.
 
-This is an update of a previous release, 'MCM-NatSust_2020-07-08.zip'
-
-Copy the file 'MCM-NatSust_2020-10-14.zip' to your preferred directory on your local machine, and unzip file. Within the directory 'MCM-NatSust_2020-10-14', there are two sub-directories:
+Copy the file 'MCM-NatSust_2020-12-05.zip' to your preferred directory on your local machine, and unzip file. Within the directory 'MCM-NatSust_2020-12-05', there are two sub-directories:
 
 1. 'MCM-NatSust'
 
@@ -19,3 +17,8 @@ Necessary packages will be loaded, or if not yet installed, will be installed. O
 2. 'Figures 1b and S3'
 
 This contains code and input data for generating two other figures. Open file 'figs_1b-S3.R' in R. (Either open this file from its sub-directory in RStudio, or else set the working directory in R to this sub-directory.) Run the script or source the file, which will load data files and generate two .png files.
+
+Version history:
+'MCM-NatSust_2020-07-08.zip', code files and README for initial submission
+'MCM-NatSust_2020-10-14.zip', code files and README for revised submission
+'MCM-NatSust_2020-12-05.zip', code files and README for accepted version
