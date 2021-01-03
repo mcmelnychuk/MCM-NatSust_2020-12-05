@@ -1,5 +1,5 @@
 # MCM-NatSust_2020-12-05
-Input data and code for analysis to accompany the manuscript: "Identifying Management Actions that Promote Sustainable Fisheries" by Melnychuk et al., 2020, Nature Sustainability, https://doi.org/10.1038/s41893-020-00668-1.
+Input data and code for analysis to accompany the manuscript: "Identifying Management Actions that Promote Sustainable Fisheries" by Melnychuk et al., 2021, Nature Sustainability, https://doi.org/10.1038/s41893-020-00668-1.
 
 Copy the file 'MCM-NatSust_2020-12-05.zip' to your preferred directory on your local machine, and unzip file. Within the directory 'MCM-NatSust_2020-12-05', there are two sub-directories:
 
